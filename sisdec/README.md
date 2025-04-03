@@ -37,5 +37,5 @@ Para el desarrollo de **SISDEC** se emplearon las siguientes tecnologías:
 Este proyecto es un trabajo en evolución. Si tienes sugerencias o deseas contribuir con mejoras, eres bienvenido a colaborar.
 
 ---
-📌 *Este proyecto nace con la intención de mejorar la gestión documental y seguir aprendiendo sobre el desarrollo de aplicaciones web.*
+ *Este proyecto nace con la intención de mejorar la gestión documental y seguir aprendiendo sobre el desarrollo de aplicaciones web.*
 

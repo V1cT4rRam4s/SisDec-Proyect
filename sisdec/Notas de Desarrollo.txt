@@ -1,0 +1,15 @@
+Cambiar el nombre de Columna Empresa de Perfil
+id_perfil
+perfil_codigo
+perfil_nombre --------------> AQUI CAMBIAR
+perfil_sigla
+perfil_direccion
+perfil_ciudad
+perfil_responsable_empresa -> AQUI CAMBIAR
+perfil_telefono
+perfil_email
+fecha_registrado
+fecha_caducidad
+perfil_estado
+perfil_color---------------> AQUI CAMBIAR
+url
