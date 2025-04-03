@@ -1,8 +1,0 @@
-{
-    "require": {
-        "phpoffice/phpspreadsheet": "^4.1",
-        "chillerlan/php-qrcode": "^5.0",
-        "phpmailer/phpmailer": "^6.9",
-        "raeen/phpy": "^5.0"
-    }
-}
